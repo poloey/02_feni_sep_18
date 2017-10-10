@@ -1,5 +1,5 @@
 # Class 02
-### View [all class list](https://github.com/poloey/feni)
+### View [all class list](https://poloey.github.io/feni/)
 
 ## html essential tag
 * html
